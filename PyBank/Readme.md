@@ -1,11 +1,18 @@
 # PyBank
 ## Out Put
+
 Financial Analysis
+
 -----------------------------------------
+
 Total Months: 86
+
 Total: $38,382,578.00
+
 Average Change: $-2,315.12
+
 Greatest Increase in Profits: Feb-2012 $1170593.0
+
 Greatest Decrease in Profits: Sep-2013 $-1196225.0
 
 
