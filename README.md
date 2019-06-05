@@ -2,7 +2,7 @@
 
 - This demonstrates some of my abilities in Python.
 
-##PyBank
+## PyBank
 
   * The total number of months included in the dataset
 
@@ -16,7 +16,7 @@
 
 
 
-##PyBank
+## PyBank
 
   * The total number of votes cast
 
