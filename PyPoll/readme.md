@@ -37,9 +37,7 @@ with open(csvPath,newline = "") as election_data:
     next(election_data, None)
     Candidates=[]
     lsCand = []
-    totalVotes = 0
-    votePercents = {}
-
+    
     for row in readData:      
         count += 1       
         #Gathers a list of candidates
